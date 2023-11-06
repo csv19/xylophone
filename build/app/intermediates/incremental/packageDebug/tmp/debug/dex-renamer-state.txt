@@ -1,0 +1,4 @@
+#Mon Nov 06 00:14:12 COT 2023
+base.0=/Users/csv/Documents/Flutter/xylophone/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
